@@ -1,0 +1,2 @@
+# Webcam-Positioner
+The program allows a user to position themselves in either four corners of their screen and take a picture. The program will ask for the location the user wants their face in and will proceed to direct the user with simple commands until the desired location is met. The program will then proceed to take a picture for the user. The program is designed to be used with voice recognition and will also speak out to the user.
